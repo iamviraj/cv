@@ -1,2 +1,2 @@
 # cv
-This contains my CV content
+This contains my CV.
